@@ -18,3 +18,7 @@ Here is an example run.
 First all the obstacle locations are printed out, and then the start and finish line are also shown.  
 
 The algorithm then finds its path from (3,2) to (9,9)
+
+Diagram of the track:
+
+![alt text](https://github.com/Mahdi2c/storage/blob/master/BrightNetwork/2.jpg)
