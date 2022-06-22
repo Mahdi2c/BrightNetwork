@@ -1,5 +1,5 @@
 # BrightNetwork
-BrightNetwork task that was done during the internship duration - the task was to create a path finding algorithim
+During my internship in BrightNetwork I created a path finding algorithm, that goes from point A to point B, while avoiding and going round any obstacles
 
 ### How does my path finding algorithm work?
 
